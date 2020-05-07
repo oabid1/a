@@ -1,0 +1,153 @@
+[
+  {
+    "PNAM": "Screwdriver",
+    "GNAM": "Journeyman's Screwdriver",
+    "COST": "11.99",
+    "MSRP": "21.99",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "A screwdriver is a tool, manual or powered, used for screwing and unscrewing screws.",
+    "BRAND": "DEWALT"
+  },
+  {
+    "PNAM": "Screwdriver",
+    "GNAM": "Best Screwdriver",
+    "COST": "12.99",
+    "MSRP": "20.99",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "A screwdriver is a tool, manual or powered, used for screwing and unscrewing screws.",
+    "BRAND": "Milwaukee"
+  },
+    {
+    "PNAM": "Screwdriver",
+    "GNAM": "Top Screwdriver",
+    "COST": "9.99",
+    "MSRP": "18.99",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "A screwdriver is a tool, manual or powered, used for screwing and unscrewing screws.",
+    "BRAND": "Bosch"
+  },
+    {
+    "PNAM": "Drill",
+    "GNAM": "Drill of Drills",
+    "COST": "115.95",
+    "MSRP": "204.26",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "A drill is a tool primarily used for making round holes or driving fasteners. It is fitted with a bit, either a drill or driver, depending on application, secured by a chuck.",
+    "BRAND": "Milwaukee"
+  },
+      {
+    "PNAM": "Drill",
+    "GNAM": "Journeyman's Drill",
+    "COST": "164.95",
+    "MSRP": "232.64",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "A drill is a tool primarily used for making round holes or driving fasteners. It is fitted with a bit, either a drill or driver, depending on application, secured by a chuck.",
+    "BRAND": "DEWALT"
+  },
+  {
+      "PNAM": "Drill",
+    "GNAM": "Top Drill",
+    "COST": "95.95",
+    "MSRP": "158.64",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "A drill is a tool primarily used for making round holes or driving fasteners. It is fitted with a bit, either a drill or driver, depending on application, secured by a chuck.",
+    "BRAND": "Bosch"
+  },
+      {
+    "PNAM": "Wrench",
+    "GNAM": "Strong Wrench",
+    "COST": "11.95",
+    "MSRP": "20.26",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "a tool used to provide grip and mechanical advantage in applying torque to turn objects—usually rotary fasteners, such as nuts and bolts—or keep them from turning.",
+    "BRAND": "Milwaukee"
+  },
+      {
+    "PNAM": "Wrench",
+    "GNAM": "Electric Wrench",
+    "COST": "49.95",
+    "MSRP": "68.11",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "a tool used to provide grip and mechanical advantage in applying torque to turn objects—usually rotary fasteners, such as nuts and bolts—or keep them from turning.",
+    "BRAND": "DEWALT"
+  },
+  {
+      "PNAM": "Wrench",
+    "GNAM": "Top Wrench",
+    "COST": "95.95",
+    "MSRP": "158.64",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "a tool used to provide grip and mechanical advantage in applying torque to turn objects—usually rotary fasteners, such as nuts and bolts—or keep them from turning.",
+    "BRAND": "Bosch"
+  },
+        {
+    "PNAM": "Saw",
+    "GNAM": "Sharp Saw",
+    "COST": "15.95",
+    "MSRP": "25.26",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "A saw is a tool consisting of a tough blade, wire, or chain with a hard toothed edge. It is used to cut through material, very often wood though sometimes metal or stone.",
+    "BRAND": "Milwaukee"
+  },
+      {
+    "PNAM": "Saw",
+    "GNAM": "Tipped Saw",
+    "COST": "19.95",
+    "MSRP": "28.11",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "A saw is a tool consisting of a tough blade, wire, or chain with a hard toothed edge. It is used to cut through material, very often wood though sometimes metal or stone.",
+    "BRAND": "DEWALT"
+  },
+  {
+      "PNAM": "Saw",
+    "GNAM": "Top Saw",
+    "COST": "25.95",
+    "MSRP": "38.64",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "A saw is a tool consisting of a tough blade, wire, or chain with a hard toothed edge. It is used to cut through material, very often wood though sometimes metal or stone.",
+    "BRAND": "Bosch"
+  },
+          {
+    "PNAM": "Hammer",
+    "GNAM": "Hardest Hammer",
+    "COST": "5.95",
+    "MSRP": "15.66",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "A hammer is a tool that consists of a heavy piece of metal at the end of a handle. It is used, for example, to hit nails into a piece of wood or a wall, or to break things into pieces.",
+    "BRAND": "Milwaukee"
+  },
+      {
+    "PNAM": "Hammer",
+    "GNAM": "Extended Hammer",
+    "COST": "15.95",
+    "MSRP": "21.25",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "A hammer is a tool that consists of a heavy piece of metal at the end of a handle. It is used, for example, to hit nails into a piece of wood or a wall, or to break things into pieces.",
+    "BRAND": "DEWALT"
+  },
+  {
+      "PNAM": "Hammer",
+    "GNAM": "Top Grip Hammer",
+    "COST": "16.95",
+    "MSRP": "18.64",
+    "QOH": "0",
+    "QOBO": "0",
+    "DES": "A hammer is a tool that consists of a heavy piece of metal at the end of a handle. It is used, for example, to hit nails into a piece of wood or a wall, or to break things into pieces.",
+    "BRAND": "Bosch"
+  }
+  
+]
