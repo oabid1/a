@@ -1,7 +1,7 @@
 [
   {
     "PNAM": "Screwdriver",
-    "GNAM": "Journeyman's Screwdriver",
+    "GNAM": "sd.jpg",
     "COST": "11.99",
     "MSRP": "21.99",
     "QOH": "0",
@@ -11,7 +11,7 @@
   },
   {
     "PNAM": "Screwdriver",
-    "GNAM": "Best Screwdriver",
+    "GNAM": "sm.jpg",
     "COST": "12.99",
     "MSRP": "20.99",
     "QOH": "0",
@@ -21,7 +21,7 @@
   },
     {
     "PNAM": "Screwdriver",
-    "GNAM": "Top Screwdriver",
+    "GNAM": "sb.jpg",
     "COST": "9.99",
     "MSRP": "18.99",
     "QOH": "0",
@@ -31,7 +31,7 @@
   },
     {
     "PNAM": "Drill",
-    "GNAM": "Drill of Drills",
+    "GNAM": "dm.jpg",
     "COST": "115.95",
     "MSRP": "204.26",
     "QOH": "0",
@@ -41,7 +41,7 @@
   },
       {
     "PNAM": "Drill",
-    "GNAM": "Journeyman's Drill",
+    "GNAM": "dd.jpg",
     "COST": "164.95",
     "MSRP": "232.64",
     "QOH": "0",
@@ -51,7 +51,7 @@
   },
   {
       "PNAM": "Drill",
-    "GNAM": "Top Drill",
+    "GNAM": "db.jpg",
     "COST": "95.95",
     "MSRP": "158.64",
     "QOH": "0",
@@ -61,7 +61,7 @@
   },
       {
     "PNAM": "Wrench",
-    "GNAM": "Strong Wrench",
+    "GNAM": "wm.jpg",
     "COST": "11.95",
     "MSRP": "20.26",
     "QOH": "0",
@@ -71,7 +71,7 @@
   },
       {
     "PNAM": "Wrench",
-    "GNAM": "Electric Wrench",
+    "GNAM": "wd.jpg",
     "COST": "49.95",
     "MSRP": "68.11",
     "QOH": "0",
@@ -81,7 +81,7 @@
   },
   {
       "PNAM": "Wrench",
-    "GNAM": "Top Wrench",
+    "GNAM": "wb.jpg",
     "COST": "95.95",
     "MSRP": "158.64",
     "QOH": "0",
@@ -91,7 +91,7 @@
   },
         {
     "PNAM": "Saw",
-    "GNAM": "Sharp Saw",
+    "GNAM": "sm2.jpg",
     "COST": "15.95",
     "MSRP": "25.26",
     "QOH": "0",
@@ -101,7 +101,7 @@
   },
       {
     "PNAM": "Saw",
-    "GNAM": "Tipped Saw",
+    "GNAM": "sd2.jpg",
     "COST": "19.95",
     "MSRP": "28.11",
     "QOH": "0",
@@ -111,7 +111,7 @@
   },
   {
       "PNAM": "Saw",
-    "GNAM": "Top Saw",
+    "GNAM": "sb2.jpg",
     "COST": "25.95",
     "MSRP": "38.64",
     "QOH": "0",
@@ -121,7 +121,7 @@
   },
           {
     "PNAM": "Hammer",
-    "GNAM": "Hardest Hammer",
+    "GNAM": "hm.jpg",
     "COST": "5.95",
     "MSRP": "15.66",
     "QOH": "0",
@@ -131,7 +131,7 @@
   },
       {
     "PNAM": "Hammer",
-    "GNAM": "Extended Hammer",
+    "GNAM": "hd.jpg",
     "COST": "15.95",
     "MSRP": "21.25",
     "QOH": "0",
@@ -141,7 +141,7 @@
   },
   {
       "PNAM": "Hammer",
-    "GNAM": "Top Grip Hammer",
+    "GNAM": "hb.jpg",
     "COST": "16.95",
     "MSRP": "18.64",
     "QOH": "0",
