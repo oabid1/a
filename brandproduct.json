@@ -1,5 +1,6 @@
 [
   {
+    "PID": "1x1",
     "PNAM": "DEWALT Screwdriver",
     "GNAM": "sd.jpg",
     "COST": "11.99",
@@ -10,6 +11,7 @@
     "BRAND": "DEWALT"
   },
   {
+    "PID": "1x2",
     "PNAM": "Milwaukee Screwdriver",
     "GNAM": "sm.jpg",
     "COST": "12.99",
@@ -20,6 +22,7 @@
     "BRAND": "Milwaukee"
   },
     {
+      "PID": "1x3",
     "PNAM": "Bosch Screwdriver",
     "GNAM": "sb.jpg",
     "COST": "9.99",
@@ -30,6 +33,7 @@
     "BRAND": "Bosch"
   },
     {
+      "PID": "2x2",
     "PNAM": "Milwaukee Drill",
     "GNAM": "dm.jpg",
     "COST": "115.95",
@@ -40,6 +44,7 @@
     "BRAND": "Milwaukee"
   },
       {
+        "PID": "2x1",
     "PNAM": "DEWALT Drill",
     "GNAM": "dd.jpg",
     "COST": "164.95",
@@ -50,6 +55,7 @@
     "BRAND": "DEWALT"
   },
   {
+    "PID": "2x3",
       "PNAM": "Bosch Drill",
     "GNAM": "db.jpg",
     "COST": "95.95",
@@ -60,6 +66,7 @@
     "BRAND": "Bosch"
   },
       {
+        "PID": "3x2",
     "PNAM": "Milwaukee Wrench",
     "GNAM": "wm.jpg",
     "COST": "11.95",
@@ -70,6 +77,7 @@
     "BRAND": "Milwaukee"
   },
       {
+        "PID": "3x1",
     "PNAM": "DEWALT Wrench",
     "GNAM": "wd.jpg",
     "COST": "9.95",
@@ -80,6 +88,7 @@
     "BRAND": "DEWALT"
   },
   {
+    "PID": "3x3",
       "PNAM": "Bosch Wrench",
     "GNAM": "wb.jpg",
     "COST": "5.95",
@@ -90,6 +99,7 @@
     "BRAND": "Bosch"
   },
         {
+          "PID": "4x2",
     "PNAM": "Milwaukee Saw",
     "GNAM": "sm2.jpg",
     "COST": "115.95",
@@ -100,6 +110,7 @@
     "BRAND": "Milwaukee"
   },
       {
+        "PID": "4x1",
     "PNAM": "DEWALT Saw",
     "GNAM": "sd2.jpg",
     "COST": "119.95",
@@ -110,6 +121,7 @@
     "BRAND": "DEWALT"
   },
   {
+    "PID": "4x3",
       "PNAM": "Bosch Saw",
     "GNAM": "sb2.jpg",
     "COST": "125.95",
@@ -120,6 +132,7 @@
     "BRAND": "Bosch"
   },
           {
+            "PID": "5x2",
     "PNAM": "Milwaukee Hammer",
     "GNAM": "hm.jpg",
     "COST": "5.95",
@@ -130,6 +143,7 @@
     "BRAND": "Milwaukee"
   },
       {
+        "PID": "5x1",
     "PNAM": "DEWALT Hammer",
     "GNAM": "hd.jpg",
     "COST": "15.95",
@@ -140,6 +154,7 @@
     "BRAND": "DEWALT"
   },
   {
+    "PID": "5x3",
       "PNAM": "Bosch Hammer",
     "GNAM": "hb.jpg",
     "COST": "16.95",
