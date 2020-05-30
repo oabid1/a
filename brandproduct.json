@@ -5,7 +5,7 @@
     "GNAM": "sd.jpg",
     "COST": "11.99",
     "MSRP": "21.99",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "DEWALT screwdriver is the best tool for screwing and unscrewing screws.",
     "BRAND": "DEWALT"
@@ -16,7 +16,7 @@
     "GNAM": "sm.jpg",
     "COST": "12.99",
     "MSRP": "20.99",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "Milwaukee screwdriver is the fastest for screwing and unscrewing screws.",
     "BRAND": "Milwaukee"
@@ -27,7 +27,7 @@
     "GNAM": "sb.jpg",
     "COST": "9.99",
     "MSRP": "18.99",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "Bosch screwdriver is electric. For easy screwing and unscrewing.",
     "BRAND": "Bosch"
@@ -38,7 +38,7 @@
     "GNAM": "dm.jpg",
     "COST": "115.95",
     "MSRP": "204.26",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "Built with a Milwaukee 4-Pole frameless motor. Delivers 500 inc lbs. of torque and up to 1,800 RPM.",
     "BRAND": "Milwaukee"
@@ -49,7 +49,7 @@
     "GNAM": "dd.jpg",
     "COST": "164.95",
     "MSRP": "232.64",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "The 20V Max Lithium-ion 1/2-inch Drill Driver features a 3-speed transmission to deliver superior results.",
     "BRAND": "DEWALT"
@@ -60,7 +60,7 @@
     "GNAM": "db.jpg",
     "COST": "95.95",
     "MSRP": "158.64",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "New and improved handle-design features heavy-use friendly grip for a better posture.",
     "BRAND": "Bosch"
@@ -71,7 +71,7 @@
     "GNAM": "wm.jpg",
     "COST": "11.95",
     "MSRP": "20.26",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "Milwaukee's best wrench design. Made from the strongest lightweight alloys.",
     "BRAND": "Milwaukee"
@@ -82,7 +82,7 @@
     "GNAM": "wd.jpg",
     "COST": "9.95",
     "MSRP": "8.11",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "DEWALT Wrench, 18mm by 14mm adjustable head, easy-carry portability",
     "BRAND": "DEWALT"
@@ -93,7 +93,7 @@
     "GNAM": "wb.jpg",
     "COST": "5.95",
     "MSRP": "18.64",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "Bosch Electric Wrench, turns things for you.",
     "BRAND": "Bosch"
@@ -104,7 +104,7 @@
     "GNAM": "sm2.jpg",
     "COST": "115.95",
     "MSRP": "225.26",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "Milwaukee Circular Saw. 18V. no battery included. ",
     "BRAND": "Milwaukee"
@@ -115,7 +115,7 @@
     "GNAM": "sd2.jpg",
     "COST": "119.95",
     "MSRP": "228.11",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "Dewalt Circular Saw. 18v. Lithium-ion batteries. Cordless",
     "BRAND": "DEWALT"
@@ -126,7 +126,7 @@
     "GNAM": "sb2.jpg",
     "COST": "125.95",
     "MSRP": "238.64",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "Bosch Cordless Saw. Circular 18V. Spindle lock for fast blade changes. ",
     "BRAND": "Bosch"
@@ -137,7 +137,7 @@
     "GNAM": "hm.jpg",
     "COST": "5.95",
     "MSRP": "15.66",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "Milwaukee Hammer 14oz. durable and long-lasting. Best hammer in the business.",
     "BRAND": "Milwaukee"
@@ -148,7 +148,7 @@
     "GNAM": "hd.jpg",
     "COST": "15.95",
     "MSRP": "21.25",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "DEWALT Hammer 22oz. Steel framing hammer. ",
     "BRAND": "DEWALT"
@@ -159,7 +159,7 @@
     "GNAM": "hb.jpg",
     "COST": "16.95",
     "MSRP": "18.64",
-    "QOH": "0",
+    "QOH": "2",
     "QOBO": "0",
     "DES": "Bosch Hammer 18oz. Professional, soft grip fiber glass design hammer.",
     "BRAND": "Bosch"
